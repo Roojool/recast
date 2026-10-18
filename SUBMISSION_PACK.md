@@ -62,9 +62,9 @@ Scripts: `dev` / `build` / `start` / `typecheck` (`tsc --noEmit`) / `test` (unit
 | Playwright demo video | `demos/recast-demo.webm` | recorded via `scripts/record-demo.mjs` |
 | Dockerfile | `Dockerfile` | written |
 | Compose | `compose.yaml` | written (app + FalkorDB) |
-| GitHub repo | `Roojool/recast` | push target |
-| HF Space (Docker) | `roojool/recast` | push target |
-| Vercel deploy | `recast` | deploy target |
+| GitHub repo | `Roojool/recast` | ✅ pushed (`5498130..eea76e6`) |
+| HF Space (Docker) | `roojool/recast` | ⚠️ 402 Payment Required — Docker Spaces on free cpu-basic require a PRO subscription (account `roojool` not PRO; verified 2026-10-18). Attempted once per policy; not purchased. GitHub + Vercel remain live. |
+| Vercel deploy | `recast` | ✅ LIVE at `https://recast-phi.vercel.app` (production `recast-idexf3l4h-roojools-projects.vercel.app`) |
 | Submission pack | `SUBMISSION_PACK.md` | this file |
 | Rollup tracker | `ALL_SUBMISSIONS_READY.md` | workspace root |
 | Phase marker | `.phase_06_DOCKER_DEPLOY_VIDEO_AND_SUBMISSION_PACK.done` | created on completion |
